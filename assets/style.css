@@ -11,7 +11,12 @@ h1 {
   position: relative;
   font-family: "Chivo", sans-serif;
 }
-header nav ul li a {
+
+header,
+nav,
+ul,
+li,
+a {
   margin: 0 30px;
   display: inline;
   float: right;
